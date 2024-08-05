@@ -1,0 +1,7 @@
+[
+  { "label": "Secondary School Certificate (SSC)", "key": "ssc" },
+  { "label": "Higher Secondary Certificate (HSC)", "key": "hsc" },
+  { "label": "Bachelor's Degree (Bachelors)", "key": "bachelors" },
+  { "label": "Master's Degree (Master)", "key": "masters" },
+  { "label": "Doctor of Philosophy (PHD)", "key": "phd" }
+]
